@@ -1,4 +1,4 @@
-# Hardening Methodology
+# RHEL Hardening Methodology
 The developed methodology for hardening an RHEL5 system is to use customized shell
 scripts to automate and provide consistency to the security hardening process. The shell scripts
 developed are based on the RHEL5 version of the Center for Internet Security (CIS)
