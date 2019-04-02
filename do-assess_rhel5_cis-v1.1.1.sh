@@ -15,7 +15,7 @@
 # Variable Declarations
 
     TIMESTAMP="`date '+%Y%m%d_%H%M%S'`"
-    REPORT_DIR=/opt/hp/security/harden/reports/cis-cat/${TIMESTAMP}
+    REPORT_DIR=/opt/security/harden/reports/cis-cat/${TIMESTAMP}
 
 ##########################################################################
 #   Run the CIS Configuration Audit Tool                                 #
