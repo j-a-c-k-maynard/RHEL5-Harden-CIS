@@ -3,8 +3,8 @@
 #
 # do-install_RHEL5_cis-v1.1.1.sh
 ##########################################################################
-# AUTHOR: HP Consulting - Security & Risk Management, Jack Maynard       #
-# Created: May 10, 2010 - HP version 1.0                                 #
+# AUTHOR: Jack Maynard                                                   #
+# Created: May 10, 2010 - version 1.0                                    #
 #                                                                        #
 # RedHat Enterprise Linux 5 (RHEL5)  Security Hardening INSTALL Script   #
 # This script installs the HP Security hardening scripts package.        #
@@ -13,7 +13,6 @@
 ##########################################################################
 
 # Create hpharden user account and set password.
-# Contact RIM Global DB Platform Group for default password
 
     /usr/sbin/useradd -u '2000' -g 'users' -d '/home/hpharden' -s '/bin/bash' \
         -c 'HP Hardening' -p '$1$/UBl4fdh$wa4woBkxV.8V9FfcEFofg/' 'hpharden' &> /dev/null
