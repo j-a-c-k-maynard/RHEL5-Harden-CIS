@@ -3,8 +3,8 @@
 #
 # do-harden_rhel5_cis-v1.1.1.sh
 ##########################################################################
-# AUTHOR: HP Consulting - Security & Risk Management, Jack Maynard       #
-# Created: May 10, 2010 - HP version 1.0                                 #
+# AUTHOR: Jack Maynard                                                   #
+# Created: May 10, 2010 - version 1.0                                    #
 #                                                                        #
 # RedHat Enterprise Linux 5 (RHEL5)  Security Hardening CONTROL Script   #
 # This script launches all other CIS Benchmark Section hardening scripts.#
