@@ -3,8 +3,8 @@
 #
 # harden_08_rhel5_cis-v1.1.1.sh
 ##########################################################################
-# AUTHOR: HP Consulting - Security & Risk Management, Jack Maynard       #
-# Created: May 10, 2010 - HP version 1.0                                 #
+# AUTHOR: Jack Maynard                                                   #
+# Created: May 10, 2010 - version 1.0                                    #
 #                                                                        #
 # RHEL5 Hardening Script Section 8.0 - System Access, Authentication,    #
 # and Authorization                                                      #
