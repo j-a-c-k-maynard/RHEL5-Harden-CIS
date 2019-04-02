@@ -1,0 +1,24 @@
+
+The programs and data stored on this system are licensed to or
+are private property of <COMPANY_NAME> and/or its
+subsidiaries and affiliates and are lawfully available
+only to authorized users for approved purposes.  By proceeding
+to access this system you represent that you have the right to
+access it. You also acknowledge that any  unauthorized access
+to any <COMPANY_NAME>,program or data (including but not limited to e-mail
+proprietary and confidential information and trade secrets) on
+this system is not permitted and may lead to criminal and/or
+civil action against you. Use of this system may be monitored
+at any time for both operational and computer security purposes.
+Each time you log in you consent to the interception recording
+auditing and retention of the access record by authorized personnel
+with respect  to your use of the <COMPANY_NAME> system. Therefore
+
+DO NOT ATTEMPT TO LOG IN IF YOU ARE NOT EXPRESSLY AUTHORIZED TO DO SO.
+
+RIM reserves the right in its sole discretion to terminate your
+access to this system for any reason without notice.
+
+Information Security: http://go/security,
+IT Service Desk:      http://go/itservicedesk
+
