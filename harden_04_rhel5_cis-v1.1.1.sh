@@ -3,8 +3,8 @@
 #
 # harden_04_rhel5_cis-v1.1.1.sh
 ##########################################################################
-# AUTHOR: HP Consulting - Security & Risk Management, Jack Maynard       #
-# Created: May 10, 2010 - HP version 1.0                                 #
+# AUTHOR: Jack Maynard                                                   #
+# Created: May 10, 2010 - version 1.0                                    #
 #                                                                        #
 # RHEL5 Hardening Script Section 4.0 - Minimize Boot Services            #
 # Scripted to Center for Internet Security (CIS) RHEL5 Benchmark v1.1.1  #
